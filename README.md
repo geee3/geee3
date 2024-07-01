@@ -25,6 +25,13 @@
 - 개인 프로젝트로 기획, 디자인, 개발 모든 부분을 담당했습니다.
 - 날씨, 대기, 주소 정보를 얻기 위해 Open API를 활용했습니다.
 
+<img width="18" alt="WeaDuck" src="https://github.com/imhotdogboy/geee3/assets/77256855/8bf25faf-bad0-4db3-8a79-c7c6cd38bbdd">
+<img width="18" alt="WeaDuck" src="https://github.com/imhotdogboy/geee3/assets/77256855/bb4ad02c-90ff-4506-b107-3bf6c29358cc">
+<img width="18" alt="WeaDuck" src="https://github.com/imhotdogboy/geee3/assets/77256855/96ed9fdf-d0d4-4e67-9683-6b7c073c8751">
+![327131918-dda5bbe0-281d-48ed-8529-1b5c9ad32951](https://github.com/imhotdogboy/geee3/assets/77256855/8bf25faf-bad0-4db3-8a79-c7c6cd38bbdd)
+![327131893-1661807a-246f-4fd2-9fc7-e7a7961045af](https://github.com/imhotdogboy/geee3/assets/77256855/bb4ad02c-90ff-4506-b107-3bf6c29358cc)
+![327131870-4e7ceaa9-f909-4d15-9fbf-0a53e83d473b](https://github.com/imhotdogboy/geee3/assets/77256855/96ed9fdf-d0d4-4e67-9683-6b7c073c8751)
+
 
 ### Education 🏫
 - [Apple Developer Academy @ POSTECH](https://developeracademy.postech.ac.kr/en/) (23.03~23.12)
